@@ -1,11 +1,12 @@
-﻿**
-
+﻿
 ## The Validated Avatar Library for Inclusion and Diversity (VALID)
 
 
 The UCF and Google *Validated Avatar Library for Inclusion and Diversity (VALID)* consists of 210 fully rigged and **perceptually validated** virtual avatars designed to advance diversity and inclusion. The library features avatars of seven different races  (American Indian and Alaskan Native (AIAN), Asian, Black, Hispanic, Middle Eastern and North African (MENA) Native Hawaiian and Pacific Islander (NHPI), and White), providing a diverse selection for researchers to use in their studies. The validated labels can facilitate research on the impact of avatar race, and researchers can choose to use the labels for studies aimed at individuals from different racial backgrounds or same-race labels for specific study populations. Avatars were created using a process that combined data-driven average facial features with extensive collaboration with representative stakeholders from each racial group. 
 
-VIDEO HERE (need to drag and drop on github website)
+
+https://github.com/xrtlab/Validated-Avatar-Library-for-Inclusion-and-Diversity---VALID/assets/23044199/f1042daf-9a61-4d57-a1ea-006cb9f730a0
+
 
 The perception of each avatar's race and gender were evaluated on a global scale. We conducted a large online study ($n=132$) with participants from 33 countries, self-identifying as one of the seven represented races, to determine how the avatars are perceived. The statistically validated labels for each avatar can be found in the chart below, and also in the paper. Please note that different communities may perceive the race of an avatar differently, particularly within community (same-race). 
 
