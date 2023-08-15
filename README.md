@@ -29,6 +29,9 @@ Avatars are available in the FBX format and are ready to use in most game engine
 
 Avatars should now be ready to animate.
 
+NOTE: 
+If you are using an avatar with long hair, you need to apply the hair shader in /HairShader to the wig game object to turn off mesh culling. By default, Unity culls two-sided meshes. 
+
 ## Contributors
 *All authors* contributed to the conception and design of the library. Below, the authors additionally contributed the following: 
  - **Tiffany D. Do  (University of Central Florida)** - Modeled the initial 210 avatars, conducted design interviews, organized the repository, designed and conducted the validation study, conducted statistical analysis, and created visualizations
