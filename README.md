@@ -15,7 +15,7 @@ The perception of each avatar's race and gender were evaluated on a global scale
 
 Additional metadata, including agreement rates disaggregated by all participant backgrounds, are found in the Metadata folder. Please read the paper for more detailed information. 
 
-If you are using the library in your work, please cite the preprint (https://doi.org/10.48550/arXiv:2309.10902): 
+If you are using the library in your work, please cite the preprint (https://doi.org/10.48550/arXiv.2309.10902): 
 
     @misc{do2023valid,
       title={VALID: A perceptually validated Virtual Avatar Library for Inclusion and Diversity}, 
@@ -24,7 +24,7 @@ If you are using the library in your work, please cite the preprint (https://doi
       eprint={2309.10902},
       archivePrefix={arXiv},
       primaryClass={cs.HC}
-      doi={10.48550/arXiv:2309.10902}
+      doi={10.48550/arXiv.2309.10902}
     }
 
 ![An image of all labels](https://zyrcant.github.io/img/labels.png)
