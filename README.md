@@ -23,7 +23,7 @@ If you are using the library in your work, please cite the preprint (https://doi
       year={2023},
       eprint={2309.10902},
       archivePrefix={arXiv},
-      primaryClass={cs.HC}
+      primaryClass={cs.HC},
       doi={10.48550/arXiv.2309.10902}
     }
 
