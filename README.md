@@ -17,7 +17,7 @@ Additional metadata, including agreement rates disaggregated by all participant 
 
 If you are using the library in your work, please cite the paper: preprint here (https://doi.org/10.48550/arXiv.2309.10902)
 
-    @article{doVALID2023
+    @article{doVALID2023,
       title = {{{VALID}}: {{A}} Perceptually Validated {{Virtual Avatar Library}} for {{Inclusion}} and {{Diversity}}},
       author = {Do, Tiffany D and Zelenty, Steve and {Gonzalez-Franco}, Mar and McMahan, Ryan P},
       journal = {Frontiers in Virtual Reality},
