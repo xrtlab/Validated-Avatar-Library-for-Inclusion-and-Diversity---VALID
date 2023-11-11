@@ -25,8 +25,6 @@ If you are using the library in your work, please cite the paper: preprint here 
       abstract = {As consumer adoption of immersive technologies grows, virtual avatars will play a prominent role in the future of social computing. However, as people begin to interact more frequently through virtual avatars, it is important to ensure that the research community has validated tools to evaluate the effects and consequences of such technologies. We present the first iteration of a new, freely available 3D avatar library called the Virtual Avatar Library for Inclusion and Diversity (VALID), which includes 210 fully rigged avatars with a focus on advancing racial diversity and inclusion. We present a detailed process for creating, iterating, and validating avatars of diversity.Through a large online study (n=132) with participants from 33 countries, we provide statistically validated labels for each avatar's perceived race and gender. Through our validation study, we also advance knowledge pertaining to the perception of an avatar's race. In particular, we found that avatars of some races were more accurately identified by participants of the same race.}
     }
 
-
-![An image of all labels](https://zyrcant.github.io/img/labels.png)
 ## Setup
 Avatars are available in the FBX format and are ready to use in most game engines, such as Unity and Unreal.  All avatars have embedded textures and materials. Unity usually does not extract them automatically. Below are instructions on importing and animating sample avatars: 
 
