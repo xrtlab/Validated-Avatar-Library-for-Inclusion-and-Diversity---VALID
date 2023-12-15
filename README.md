@@ -53,4 +53,4 @@ If you are using an avatar with long hair, you need to apply the hair shader in 
 
 ## VALID Extensions 
 
-[Avatars converted to gITF]{https://github.com/c-frame/valid-avatars-glb} - Thanks to [vincentfretin]{https://github.com/vincentfretin}
+[Avatars converted to gITF](https://github.com/c-frame/valid-avatars-glb) - Thanks to [vincentfretin](https://github.com/vincentfretin)
