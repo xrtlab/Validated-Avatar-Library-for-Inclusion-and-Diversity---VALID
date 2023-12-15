@@ -51,3 +51,6 @@ If you are using an avatar with long hair, you need to apply the hair shader in 
  - **Mar Gonzalez-Franco (Google Labs)** - Advised the project and created visualizations 
  - **Ryan P. McMahan (University of Central Florida)** - Advised the project, designed and conducted the validation study, and created visualizations 
 
+## VALID Extensions 
+
+[Avatars converted to gITF]{https://github.com/c-frame/valid-avatars-glb} - Thanks to [vincentfretin]{https://github.com/vincentfretin}
