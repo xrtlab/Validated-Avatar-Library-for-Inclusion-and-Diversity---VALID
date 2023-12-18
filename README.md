@@ -10,6 +10,8 @@ The UCF and Google *Validated Avatar Library for Inclusion and Diversity (VALID)
 https://github.com/xrtlab/Validated-Avatar-Library-for-Inclusion-and-Diversity---VALID/assets/23044199/9e44f632-af73-4db9-a0f8-12376f59dd03
 
 
+See: [Google GitHub](https://github.com/google/valid-avatar-library)
+
 
 The perception of each avatar's race and gender were evaluated on a global scale. We conducted a large online study ($n=132$) with participants from 33 countries, self-identifying as one of the seven represented races, to determine how the avatars are perceived. The statistically validated labels for each avatar can be found in the chart below, and also in the paper. Please note that different communities may perceive the race of an avatar differently, particularly within community (same-race). 
 
